@@ -19,7 +19,7 @@ Project Overview
 
     Backend: Laravel (PHP), SQL Database
     Frontend: React, Vite, Bootstrap, JavaScript
-    Styling: CSS (Bootstrap styles)
+    Styling: SASS and Bootstrap
 
 ### Features
 
